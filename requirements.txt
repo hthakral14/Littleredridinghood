@@ -1,8 +1,9 @@
 streamlit
-langchain
+langchain==0.0.352
 langchain-community
 langchain-core
 transformers
 torch
 faiss-cpu
 sentence-transformers
+
