@@ -1,38 +1,34 @@
-STORY TITLE:
-Little Red Riding Hood
+Little Red Riding Hood is a young girl who lives in a village near a forest.
+She is known for always wearing a red hooded cloak made by her grandmother,
+which is why everyone calls her Little Red Riding Hood.
 
-MAIN CHARACTERS:
-Little Red Riding Hood, Grandmother, Wolf, Woodsman
+Little Red Riding Hood loves visiting her grandmother, who lives alone in a
+small cottage on the other side of the forest.
 
-SETTING:
-A small village near a forest and a cottage in the woods.
+One morning, her mother prepares a basket with muffins, honey, and herbal tea.
+She asks Little Red Riding Hood to take the basket to her grandmother and warns
+her to stay on the path and never talk to strangers.
 
-STORY:
+Little Red Riding Hood promises to obey and starts walking through the forest.
+While walking, she meets a wolf. The wolf is a dangerous and dishonest animal.
 
-1. A Girl named little Red Riding Hood who lived in a village near a forest.
-2. She always wore a red hooded cloak made by her grandmother thats why she called little red riding hood.
-3. Little Red Riding Hood loved visiting her grandmother, who lived alone in a cottage on the other side of the forest.
-4. One morning, her mother packed a basket with muffins, honey, and herbal tea.
-5. Her mother told her to take the basket to her grandmother and warned her to stay on the path and never talk to strangers.
-6. Little Red Riding Hood promised her mother and started walking through the forest.
-7. While walking, she met a wolf in the forest.
-8. The wolf asked her where she was going.
-9. Little Red Riding Hood told the wolf she was going to her grandmother’s house.
-10. The wolf pretended to be kind and suggested she pick some flowers for her grandmother.
-11. Little Red Riding Hood stopped and picked flowers in a sunny meadow.
-12. While she was picking flowers, the wolf ran to her grandmother’s house.
-13. The wolf knocked on the door, went inside, locked the grandmother in a closet, and dressed up like her.
-14. Later, Little Red Riding Hood reached the cottage and went inside.
-15. She noticed that her grandmother looked strange.
-16. Little Red Riding Hood talked to the wolf, who was pretending to be her grandmother.
-17. Suddenly, the wolf jumped out of bed and tried to attack Little Red Riding Hood.
-18. At that moment, a woodsman came to the house.
-19. The woodsman heard the noise, entered the cottage, scared the wolf away, and saved Little Red Riding Hood.
-20. The woodsman freed the grandmother from the closet.
-21. Little Red Riding Hood and her grandmother were safe again.
+The wolf asks Little Red Riding Hood where she is going. She tells him she is
+going to her grandmother’s house. The wolf pretends to be kind and tricks her
+into picking flowers so that he can reach the grandmother’s house first.
 
-ENDING:
-22. Little Red Riding Hood returned home safely with her grandmother.
+While Little Red Riding Hood is distracted, the wolf runs to the cottage.
+He knocks on the door, enters the house, locks the grandmother in a closet,
+and disguises himself as her.
 
-LESSON:
-23. Children should never talk to strangers and should always listen to their elders.
+Later, Little Red Riding Hood arrives at the cottage and notices that her
+grandmother looks strange. While talking to her, the wolf suddenly reveals
+himself and tries to attack Little Red Riding Hood.
+
+At that moment, a woodsman hears the noise and enters the cottage.
+He scares the wolf away, saves Little Red Riding Hood, and frees the grandmother.
+
+The grandmother and Little Red Riding Hood are safe again.
+Little Red Riding Hood returns home safely.
+
+Moral lesson:
+Children should never talk to strangers and should always listen to their elders.
