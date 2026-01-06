@@ -8,7 +8,8 @@ from langchain_community.llms import HuggingFacePipeline
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
-from langchain.chains import RetrievalQA
+from langchain.chains.retrieval_qa.base import RetrievalQA
+
 from langchain.prompts import PromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
@@ -213,3 +214,4 @@ if user_input := st.chat_input("Ask a question about the story..."):
     
     # Trim to last 4 messages
     st.session_state.messages = st.session_state.messages[-4:]
+
