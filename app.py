@@ -18,25 +18,25 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 # --------------------------------------------------
 @st.cache_resource
 def load_llm():
-    model_id = "google/flan-t5-large"
+    model_id = "google/flan-t5-base"
 
     tokenizer = AutoTokenizer.from_pretrained(model_id)
+
     model = AutoModelForSeq2SeqLM.from_pretrained(
         model_id,
-        torch_dtype=torch.float16,  # faster inference if GPU supports
-        device_map="auto"
+        torch_dtype=torch.float32,   # ✅ CPU-safe
+        device_map=None              # ✅ disable auto GPU mapping
     )
 
     pipe = pipeline(
         "text2text-generation",
         model=model,
         tokenizer=tokenizer,
-        max_new_tokens=100,
-        temperature=0.0,
-        do_sample=False
+        max_new_tokens=256
     )
 
     return HuggingFacePipeline(pipeline=pipe)
+
 
 # --------------------------------------------------
 # Load Story & Vector Store
@@ -214,5 +214,6 @@ if user_input := st.chat_input("Ask a question about the story..."):
     
     # Trim to last 4 messages
     st.session_state.messages = st.session_state.messages[-4:]
+
 
 
