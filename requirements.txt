@@ -1,5 +1,18 @@
+# Web Interface
 streamlit
-sentence-transformers
-numpy
+
+# LangChain Framework
+langchain
+langchain-community
+
+# Model Handling & AI
 transformers
 torch
+sentence-transformers
+accelerate
+
+# Vector Database (CPU version)
+faiss-cpu
+
+# Utilities
+numpy
